@@ -3,7 +3,7 @@
         'name' => 'garyclarke/translatethis',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '53fff73316d7fd24ed84134bfc4f110738dbd9ce',
+        'reference' => '6a1bd4404aa9183e00bd47b06bdeeec544eb7632',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'garyclarke/translatethis' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '53fff73316d7fd24ed84134bfc4f110738dbd9ce',
+            'reference' => '6a1bd4404aa9183e00bd47b06bdeeec544eb7632',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

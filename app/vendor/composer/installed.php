@@ -3,7 +3,7 @@
         'name' => 'garyclarke/translatethis',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '6a1bd4404aa9183e00bd47b06bdeeec544eb7632',
+        'reference' => '8dc03aba51954f0ec2c7df511ed77e07afedd69c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'garyclarke/translatethis' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '6a1bd4404aa9183e00bd47b06bdeeec544eb7632',
+            'reference' => '8dc03aba51954f0ec2c7df511ed77e07afedd69c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -114,7 +114,7 @@
         'phpunit/phpunit' => array(
             'pretty_version' => '9.6.x-dev',
             'version' => '9.6.9999999.9999999-dev',
-            'reference' => '60b3af971ece034547a360bef2eb06ec8b827414',
+            'reference' => '70004109dbe3f1ee5fc29551240d04471a3cdd09',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpunit/phpunit',
             'aliases' => array(),
@@ -346,6 +346,17 @@
                 0 => '1.1|2.0|3.0',
             ),
         ),
+        'symfony/deprecation-contracts' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7c3aff79d10325257a001fcf92d991f24fc967cf',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/deprecation-contracts',
+            'aliases' => array(
+                0 => '3.4.x-dev',
+            ),
+            'dev_requirement' => false,
+        ),
         'symfony/service-contracts' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
@@ -358,9 +369,9 @@
             'dev_requirement' => false,
         ),
         'symfony/var-exporter' => array(
-            'pretty_version' => '7.1.x-dev',
-            'version' => '7.1.9999999.9999999-dev',
-            'reference' => '88ffc3ccf955daf96738080bf56232c8e4665041',
+            'pretty_version' => '6.4.x-dev',
+            'version' => '6.4.9999999.9999999-dev',
+            'reference' => 'd6081c0316f0f5921f2010d1766925005a82ea3b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/var-exporter',
             'aliases' => array(),

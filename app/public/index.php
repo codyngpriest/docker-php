@@ -1,7 +1,3 @@
-<?php
-
-
-phpinfo();
 
 use App\Repository\TranslationRepository;
 
@@ -135,4 +131,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 </body>
 </html>
-

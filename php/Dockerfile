@@ -1,3 +1,4 @@
+
 FROM php:8.1-fpm-alpine as app
 
 
@@ -54,12 +55,4 @@ COPY ./php/conf.d/xdebug.ini /usr/local/etc/php/conf.d/xdebug.ini
 
 RUN set -eux; \
     install-php-extensions xdebug
-
-
-
-
-
-
-
-
 
